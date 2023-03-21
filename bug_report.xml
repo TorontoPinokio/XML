@@ -1,1 +1,7 @@
 
+<Bug>
+  <error>IOS</error>
+  <error_2>Terminal</error_2>
+  <error_3>mv "t"</error_3>
+  <error_4>xargs "i"</error_4>
+</Bug>
