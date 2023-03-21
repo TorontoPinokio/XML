@@ -1,0 +1,10 @@
+
+<Persson>
+	<Persson_first_name>Semyon</Person_first_name>
+	<Persson_last_name>Zarubin</Person_last_name>
+		<Persson_age>28</Persson_age>
+			<Pet>No</Pet>
+		<Salary>2500</Salary>
+</Persson>
+	
+
