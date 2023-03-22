@@ -58,12 +58,14 @@ Add file         ╣
 Create new file  ╝
 ```
 15.Сделать Commit changes (сохранить) изменения на веб интерфейсе.
+
 16.На веб интерфейсе модифицировать файл bug_report.xml, добавить баг репорт в формате XML.
 >choose the bug_report.xml 
 >:arrow_right: 
 >:pencil2: Edit this file.
 
 17.Сделать Commit changes (сохранить) изменения на веб интерфейсе.
+
 18.Синхронизировать внешний и локальный репозиторий XML
 ```
 git fetch
